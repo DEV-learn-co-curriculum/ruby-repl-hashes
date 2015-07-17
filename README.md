@@ -57,7 +57,7 @@ Write a method that returns the following hash:
 
 ~~~solution
 
-{ name: "Ruby", color: "red" }
+{ name: "Ruby", color: "red", list: [1,2,3] }
 
 ~~~validation
 
@@ -72,7 +72,7 @@ assert_equal(response,{ name: "Ruby", color: "red", list: [1,2,3] })
 ### Ruby Repl Nested Hashes
 
 Write a method that returns the following hash:  
-{ name: "Ruby", color: "red" }
+{"Jon Snow": {name: "Jon", email: "jon_snow@thewall.we", favorite_icecream_flavors: ["chocolate", "vanilla", "mint chip"]}}
 
 ~~~ruby
 
