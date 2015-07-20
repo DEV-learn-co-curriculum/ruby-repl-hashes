@@ -88,4 +88,23 @@ assert_equal(response,{"Jon Snow": {name: "Jon", email: "jon_snow@thewall.we", f
 
 ~~~
 
+### Ruby Repl Puts
+
+Write a method that puts "Wingardium Leviosa" 3 times
+
+~~~ruby
+
+# Code your solution here
+
+~~~solution
+
+def puts_method
+end
+
+~~~validation
+
+assert_equal(response,{"Jon Snow": {name: "Jon", email: "jon_snow@thewall.we", favorite_icecream_flavors: ["chocolate", "vanilla", "mint chip"]}})
+
+~~~
+
 %%%
