@@ -89,3 +89,5 @@ assert_equal(response,{"Jon Snow": {name: "Jon", email: "jon_snow@thewall.we", f
 ~~~
 
 %%%
+
+<a href='https://learn.co/lessons/ruby-repl-hashes' data-visibility='hidden'>Learn.co resource</a>
